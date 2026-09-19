@@ -10,3 +10,4 @@ Admin@123
 000000
 mybirthday
 hello
+Note: next version I'll put the rockyou.txt wordlist, this is just a demo
